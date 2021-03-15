@@ -1,6 +1,6 @@
 # Client side
 
-
+![demo-gif](https://github.com/MoFayaz/ChaiChat/blob/main/client/chaichat-github.gif)
 
 ## Available Scripts
 
