@@ -1,0 +1,28 @@
+.joinInnerContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 10rem;
+	color: white;
+}
+.room-join,
+.name-join {
+	width: 20rem;
+	padding: 1.5rem;
+	margin: 10px;
+}
+
+.create-button {
+	border: none !important;
+	outline: none !important;
+}
+.joinContainer {
+	background: #121212;
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	top: 0;
+	background-image: url("https://firebasestorage.googleapis.com/v0/b/image-upload-b568f.appspot.com/o/7679474f34714da9d498fcd892b5aea2.jpg?alt=media&token=daa82c75-83d3-402d-9388-1dfb33d22c0d");
+}

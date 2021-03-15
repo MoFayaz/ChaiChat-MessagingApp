@@ -1,0 +1,61 @@
+/*.messageOuterContainer {
+	margin: auto;
+	width: 20rem;
+}
+*/
+
+.pl-10 {
+	padding-left: 10px;
+}
+
+.pr-10 {
+	padding-right: 10px;
+}
+
+.justifyStart {
+	justify-content: flex-start;
+}
+
+.justifyEnd {
+	justify-content: flex-end;
+}
+
+.colorWhite {
+	color: white;
+}
+
+.colorDark {
+	color: #353535;
+}
+
+.backgroundBlue {
+	background: #2979ff;
+}
+
+.backgroundLight {
+	background: #f3f3f3;
+}
+
+.currentUser {
+	display: flex;
+	align-items: center;
+	font-family: Helvetica;
+	color: #828282;
+	letter-spacing: 0.3px;
+}
+
+.messageContainer {
+	display: flex;
+	width: 19rem;
+	margin: auto;
+	/*padding: 0 5%;*/
+	/*margin-top: 3px;*/
+}
+.messageInnerBox {
+	margin-bottom: 15px;
+	border-radius: 5px;
+	padding: 10px;
+	width: 15rem;
+	/*overflow: auto;*/
+	overflow-wrap: break-word;
+}

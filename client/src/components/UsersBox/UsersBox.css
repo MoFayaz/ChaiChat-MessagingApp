@@ -1,0 +1,19 @@
+.UsersActiveContainer {
+	color: white;
+	position: fixed;
+	margin: 2rem;
+}
+.fa-signal {
+	color: lightgreen;
+	margin-left: 10px;
+}
+@media only screen and (max-width: 720px) {
+	.UsersActiveContainer {
+		color: white;
+		margin: 1rem;
+		font-size: 15px;
+	}
+	.headingOfActive {
+		display: none;
+	}
+}

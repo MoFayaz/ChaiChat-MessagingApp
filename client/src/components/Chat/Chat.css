@@ -1,0 +1,29 @@
+.send-text-field {
+	width: 20rem;
+	padding: 1.5rem;
+	margin: 10px;
+	outline: none;
+}
+.InputFieldContainer {
+	display: flex;
+	justify-content: center;
+}
+
+@media only screen and (min-width: 1080px) {
+	.send-text-field {
+		width: 20rem;
+		padding: 1.5rem;
+		margin: 10px;
+		outline: none;
+		position: relative;
+		bottom: 4rem;
+	}
+}
+.chatContainer {
+	background: #121212;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 100vw;
+}
