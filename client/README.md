@@ -1,7 +1,7 @@
 # Client side
 
 
-<img src="https://github.com/MoFayaz/ChaiChat/blob/main/client/chaichat-github.gif" width="250" height="250"/>
+<img src="https://github.com/MoFayaz/ChaiChat/blob/main/client/chaichat-github.gif" style="textAlign:center" width="400" height="auto"/>
 
 ## Available Scripts
 
