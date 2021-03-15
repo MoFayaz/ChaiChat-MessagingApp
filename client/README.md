@@ -8,7 +8,7 @@
 
 In the project directory, you can run:
 
-### Step 1: `npm install`
+### Install the necessary modules `npm install`
 
 ### Run it on localhost `npm start`
 
